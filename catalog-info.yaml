@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: tf-az-overlays-desktopvirtualization
+  name: terraform-az-overlays-desktopvirtualization
   description: Terraform overlay module for Azure Virtual Desktop (AVD)
   annotations:
-    github.com/project-slug: POps-Rox/tf-az-overlays-desktopvirtualization
+    github.com/project-slug: POps-Rox/terraform-az-overlays-desktopvirtualization
     backstage.io/techdocs-ref: dir:.
   tags:
     - terraform
@@ -12,7 +12,7 @@ metadata:
     - azure
     - platform-ops
   links:
-    - url: https://github.com/POps-Rox/tf-az-overlays-desktopvirtualization
+    - url: https://github.com/POps-Rox/terraform-az-overlays-desktopvirtualization
       title: GitHub Repository
       icon: github
 spec:
